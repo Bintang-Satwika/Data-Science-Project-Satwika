@@ -1,2 +1,1 @@
 # IMBD_EDA
-"This is my final project while undertaking an external course in computer science. Four-person team that conducted in-depth exploratory data analysis (EDA) on the IMDB dataset, enabling us to develop models for movie rating prediction and implement clustering techniques. I was responsible for both pre-processing the dataset and developing models using the random forest and neural networks libraries from scikit-learn in Python for movie rating prediction. I also contributed to the EDA by visualizing the dataset.
