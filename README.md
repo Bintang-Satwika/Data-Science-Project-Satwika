@@ -1,2 +1,2 @@
 # Data_Science_Project
-These notebooks are my data science portfolio in Python using numpy,pandas, matplotlib, etc. The project is about PCA, predicted output, or clustering on IMDB dataset, Diabetes dataset, gender dataset, and sales dataset.
+These notebooks serve as my data science portfolio in Python, showcasing proficiency in key libraries such as NumPy, Pandas, Matplotlib, and more. The projects encompass PCA, predictive modeling, and clustering analysis applied to diverse datasets, including IMDB, Diabetes, Gender, and Sales datasets.
